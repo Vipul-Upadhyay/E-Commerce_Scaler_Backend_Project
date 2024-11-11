@@ -1,0 +1,15 @@
+[submodule "UserService"]
+	path = UserService
+	url = https://github.com/Vipul-Upadhyay/UserService.git
+[submodule "PaymentService"]
+	path = PaymentService
+	url = https://github.com/Vipul-Upadhyay/PaymentService.git
+[submodule "ProductService"]
+	path = ProductService
+	url = https://github.com/Vipul-Upadhyay/ProductService.git
+[submodule "ServiceDiscovery"]
+	path = ServiceDiscovery
+	url = https://github.com/Vipul-Upadhyay/ServiceDiscovery.git
+[submodule "Gateway"]
+	path = Gateway
+	url = https://github.com/Vipul-Upadhyay/Gateway.git
